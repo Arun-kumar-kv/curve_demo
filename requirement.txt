@@ -1,0 +1,8 @@
+pandas
+numpy
+mysql-connector-python
+sqlalchemy
+matplotlib
+seaborn>=0.13.0
+fastapi
+uvicorn
