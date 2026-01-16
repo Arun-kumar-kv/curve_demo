@@ -1,0 +1,9 @@
+*.env
+env/
+curve.csv
+database.py
+jupiter.ipynb
+lease_parking.ipynb
+schemas.py
+sqlconnect.py
+tasks.db
